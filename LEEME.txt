@@ -1,0 +1,11 @@
+ANALYZER ESCUELA CADISTA PR
+
+Contenido:
+- index.html: aplicación actualizada.
+- crest.png: escudo del club.
+- icon-192.png e icon-512.png: iconos de la aplicación.
+- manifest.webmanifest: configuración de la aplicación instalable.
+- sw.js: archivo de servicio para la aplicación web.
+
+Para abrirla, descomprime el ZIP y abre index.html en el navegador.
+Mantén todos los archivos juntos en la misma carpeta.
